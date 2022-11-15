@@ -294,7 +294,7 @@ nav {
     background-image: url(img/cinco-estrellas.png);
     background-repeat: no-repeat;
     background-size: 80px 15px;
-    background-position: 25px 20px;
+    background-position: 25px 30px;
 }
 
 .texto-resena{
@@ -307,7 +307,7 @@ nav {
 .nombre-resena{
     margin-left: 175px;
     margin-bottom: 40px;
-    margin-top: 10px;
+    margin-top: 25px;
 }
 
 .contactanos{
@@ -319,7 +319,7 @@ nav {
     height: 714px;
     padding-left: 109px;
     padding-right: 575px;
-    padding-top: 70px;
+    padding-top: 80px;
     padding-bottom: 82px;
     margin: 0 auto;
     background-color: black;
